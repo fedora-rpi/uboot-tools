@@ -2,7 +2,7 @@
 
 Name:      uboot-tools
 Version:   2015.07
-Release:   5%{?candidate:.%{candidate}}%{?dist}
+Release:   5%{?candidate:.%{candidate}}%{?dist}.lr1
 Summary:   U-Boot utilities
 
 Group:     Development/Tools
